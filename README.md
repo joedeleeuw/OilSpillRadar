@@ -17,3 +17,9 @@
 + 1 wave tank support frame
 + 2 magnetitic digital levels
 + 12-V motor 
+
+
+#### Basic Use:
+ + To start running tests, select 'Acquire Data' on the GUI
+ + Fill in required fields and submit.
+ + Select 'Import Data' to import the values from the test to the database. 
