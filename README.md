@@ -6,13 +6,11 @@
 1. 1 Transmit antenna
 2. 1 recieve antenna 
 3. 2 coaxial cables 
-4. 1 weatherproof circut case with:
+4. 1 weatherproof circut case with.
   ⋅⋅* Unordered sub-list. 
   ⋅⋅* Unordered sub-list. 
   ..* 1 AC/DC variable power adapter.
   ..* fully assembled circuit
-  ..*
-  ..*
 5. 2 linear actuators
 6. 2 jrk motor drivers
 7. 1 wave tank
