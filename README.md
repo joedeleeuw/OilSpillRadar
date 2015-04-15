@@ -3,14 +3,14 @@
 ### A PHP, Javascript, and MySQL web application to present data from, and interact with a series of python and bash scripts to detect the presence of oil on the surface of ocean water. 
 
 #### Project Hardware:
-+. 1 Transmit antenna
++ Transmit antenna
 + 1 recieve antenna 
 + 2 coaxial cables 
 + 1 weatherproof circut case with.
-  - Unordered sub-list. 
-  - Unordered sub-list. 
+  - 1 router
+  - 1 Raspberry Pi
   - 1 AC/DC variable power adapter.
-  -  fully assembled circuit
+  - 1 fully assembled circuit
 + 2 linear actuators
 + 2 jrk motor drivers
 + 1 wave tank
