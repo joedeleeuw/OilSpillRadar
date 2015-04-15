@@ -7,8 +7,8 @@
 2. 1 recieve antenna 
 3. 2 coaxial cables 
 4. 1 weatherproof circut case with:
-  ⋅⋅1. 1 router.
-  ⋅⋅2. 1 Rasberry pi.
+  ⋅⋅* Unordered sub-list. 
+  ⋅⋅* Unordered sub-list. 
   ..* 1 AC/DC variable power adapter.
   ..* fully assembled circuit
   ..*
