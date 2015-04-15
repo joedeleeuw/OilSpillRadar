@@ -23,3 +23,6 @@
  + To start running tests, select 'Acquire Data' on the GUI
  + Fill in required fields and submit.
  + Select 'Import Data' to import the values from the test to the database. 
+ + Linear actuator that controls the angle of the antenna can be controled on from the Actuator Page.
+   - the actuator calls a c++ executable that changest the angle of the actuator with respect to the ground.
+   - a linear plot was created to match input to the actuator with desired angles from the user.
