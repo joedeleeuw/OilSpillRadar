@@ -1,6 +1,3 @@
-# Script created by Daniel Curzon (http://www.instructables.com/member/drcurzon)
-# Initial version created 10th June 2012
-#Edited by Joe Deleeuw & Binh Vuong 
 # Version: 1.0
 
 ###################################
